@@ -1,0 +1,12 @@
+{
+    "levelNum": 1,
+    "tanks": {
+        "player": {
+            "position": "50,50"
+        }
+    },
+
+    "layout:": {
+
+    }
+}
